@@ -3,6 +3,7 @@
 		"forceConsistentCasingInFileNames": true,
 		"module": "esnext",
 		"moduleResolution": "Bundler",
+		"target": "ESNext",
 		"strict": true,
 		"types": ["vitest/importMeta"]
 	}
